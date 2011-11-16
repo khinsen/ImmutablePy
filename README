@@ -42,7 +42,7 @@ would be required for maximum efficiency.
 
 This library works with both Python 2 (tested with 2.6 and 2.7)
 and Python 3. The Python 3 version has been generated from the Python 2
-version using the utility to3.
+version using the utility 2to3.
 
 
 Konrad Hinsen

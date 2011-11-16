@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup (name = "ImmutableData",
+setup (name = "ImmutablePy",
        version = "0.1",
        description = "Support for working with immutable data",
        long_description = 
@@ -10,6 +10,6 @@ setup (name = "ImmutableData",
        author = "Konrad Hinsen",
        author_email = "konrad.hinsen@cnrs-orleans.fr",
        license = "CeCILL-B",
-       url = "http://bitbucket.org/khinsen/ImmutableData",
+       url = "http://bitbucket.org/khinsen/immutablepy",
        packages = ['immutable'],
        )
